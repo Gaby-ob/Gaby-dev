@@ -1,0 +1,48 @@
+hi{
+    color: #2c3es;
+    margin_botton: 20px;
+    text-aling: center;
+    margin-top: 10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margen:0;
+    padding: 0;
+    background-color: fafafa;
+    color: #333;
+}
+p{
+    text-aling:center;
+    background: rgb(123, 231,233);
+    with:23%;
+    font-family:"fbrush";
+}
+# bloc_dos{
+    background: #34fc98;
+    padding:40px;
+    margin:00px auto;
+    border-radius 8px;
+    box-shadow:00 10px rgba(0,0,0,0,1);
+    width: 60%;
+
+    #bloc_uno, #block_dos{
+display: inline-block;
+vertical-align: top;
+    }
+    h1,h2,h3 {
+        color:#2c3e;
+        margin-bottom: :5px;
+
+    }
+    hi{
+        border-bottom: 2px solid #2c3e;
+        radding-botton:10px;
+    }
+h2{
+    font-size: 1.2em;
+    # foto img {
+        
+    }
+}
+}
